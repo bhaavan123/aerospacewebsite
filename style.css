@@ -1,0 +1,25 @@
+#best_space_agencies img{
+    height: 350px;
+    
+}
+#best_space_agencies{
+    background-color: linear-gradient(#3bf2f5 0%, #3866f2 100%);
+    text-align: center;
+    color: red;
+    font-family: cursive;
+}
+#best_interviews{
+    text-align: center;
+    font-family: cursive;
+    color: crimson;
+}
+#best_interviews iframe
+{
+    width: 80%;
+    height:800px;
+    
+}
+.book img{
+    width: 300px;
+    height:230px;
+}
